@@ -3,9 +3,9 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/Made_with-Python3-red?style=for-the-badge&logo=python)](https://www.python.org/ "Python3")
-[![](https://img.shields.io/badge/Made_with-sklearn-red?style=for-the-badge&logo=scikit-learn)](https://www.python.org/ "Scikit-Learn")
-[![](https://img.shields.io/badge/IDE-Jupyter_Notebook-red?style=for-the-badge&logo=jupyter)](https://www.python.org/ "Jupyter IDE")
-[![](https://img.shields.io/badge/Dataset-IMDB-red?style=for-the-badge&logo=imdb)](https://www.python.org/ "IMDB")
+[![](https://img.shields.io/badge/Made_with-sklearn-red?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/ "Scikit-Learn")
+[![](https://img.shields.io/badge/IDE-Jupyter_Notebook-red?style=for-the-badge&logo=jupyter)](https://www.jupyter.org/ "Jupyter IDE")
+[![](https://img.shields.io/badge/Dataset-IMDB-red?style=for-the-badge&logo=imdb)](https://www.imdb.com/ "IMDB")
 
 </div>
 
@@ -20,6 +20,10 @@ Recommendation systems are everywhere, be it an online purchasing app, movie str
 2. [Collaborative Filtering using K-Nearest Neighbours](https://www.analyticsvidhya.com/blog/2020/08/recommendation-system-k-nearest-neighbors/)
 3. [Collaborative Filtering using Pearson's Coefficient](https://ieeexplore.ieee.org/document/7270736)
 4. [Collaborative Filtering using Singular-Value Decomposition (SVD)](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture25-mf.pdf)
+
+### Dataset Used: 
+
+[Link to IMDB Dataset](https://drive.google.com/file/d/1Dn1BZD3YxgBQJSIjbfNnmCFlDW2jdQGD/view)
 
 ### Future scope of this project:
 
