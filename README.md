@@ -88,7 +88,7 @@ Recommendation systems are everywhere, be it an online purchasing app, movie str
 </p>
 
 <td>
-  <img align='center' src="https://user-images.githubusercontent.com/33197180/115190237-5c470a00-a105-11eb-8f9c-bd7f15cfe8f5.jpeg" width="150" height="150">
+  <img align='center' src="https://avatars.githubusercontent.com/u/44298638?v=4" width="150" height="150">
      
     Mihir Gada
 
